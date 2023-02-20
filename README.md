@@ -1,0 +1,1 @@
+Se debe de poder crear un cotizador que ayude a la autonomía de la empresa en el cual se deben de tomar en cuanta factores muy importantes teles como: 1. La edad del usuario 2. Sí, está casado y la edad de su cónyuge 3. La cantidad de hijos que tenga la pareja. (si el usuario no tiene cónyuge o bien no tiene hijos, se pueden omitir ciertos pasos).
